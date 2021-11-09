@@ -1,0 +1,9 @@
+acpitool
+arcolinux-keyring
+autofs
+dwm
+dwm-gnome
+fcitx-sogoupinyin
+ldm
+libxft-bgra-git
+ttf-twemoji-color

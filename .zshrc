@@ -32,6 +32,7 @@ source ~/.zinit/bin/zinit.zsh
  zinit snippet OMZ::plugins/git/git.plugin.zsh
 
  alias la="ls -a"
+ alias vim="nvim"
 
 # # 加载 pure 主题
  zinit ice pick"async.zsh" src"pure.zsh"
